@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.dart": "dart",
+        "*.asm": "asm-collection",
+        "iostream": "cpp",
+        "xstring": "cpp"
+    }
+}
